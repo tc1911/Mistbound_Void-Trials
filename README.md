@@ -9,7 +9,7 @@
 
 本项目遵循cc4.0开源！
 
-当前更新至80章
+当前更新至81章
 每十章发表一个打包版本
 
 感谢[此项目](https://github.com/POf-L/Fanqie-novel-Downloader) 的api！
