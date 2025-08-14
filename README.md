@@ -9,7 +9,7 @@
 
 本项目遵循cc4.0开源！
 
-当前更新至82章
+当前更新至83章
 每十章发表一个打包版本
 
 感谢[此项目](https://github.com/Dlmily/Tomato-Novel-Downloader-Lite) 番茄打包导出程序！
